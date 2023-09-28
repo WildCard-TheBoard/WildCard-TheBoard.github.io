@@ -21,4 +21,4 @@ Bug, comment or suggestion? Welcome to send me an email to jkadreamer at gmail d
 
 [Link to Privacy page](./Provacy.html).
 
-[Link to Google](https://sites.google.com/view/goboardproject/home)https://sites.google.com/view/goboardproject/home).
+[Link to Google Home](https://sites.google.com/view/goboardproject/home).
