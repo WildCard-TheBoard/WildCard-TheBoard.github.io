@@ -19,4 +19,4 @@ GNU Go version 3.8
 ## Contact
 Bug, comment or suggestion? Welcome to send me an email to jkadreamer at gmail dot com or moldlab at hotmail dot com.
 
-[Link to Privacy page](./Provacy.md).
+[Link to Privacy page](./Provacy.html).
