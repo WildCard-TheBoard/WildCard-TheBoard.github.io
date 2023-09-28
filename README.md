@@ -20,3 +20,5 @@ GNU Go version 3.8
 Bug, comment or suggestion? Welcome to send me an email to jkadreamer at gmail dot com or moldlab at hotmail dot com.
 
 [Link to Privacy page](./Provacy.html).
+
+[Link to Google](https://sites.google.com/view/goboardproject/home)https://sites.google.com/view/goboardproject/home).
