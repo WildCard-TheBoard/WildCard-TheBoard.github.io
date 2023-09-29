@@ -23,5 +23,5 @@ GNU Go version 3.8
 ## Contact
 Bug, comment or suggestion? Welcome to send me an email to jkadreamer at gmail dot com or moldlab at hotmail dot com.
 
-[Link to Privacy page](./Privacy/privacy.html).
+[Link to Privacy page](WildCard-TheBoard.github.io/Pan-TheBoard/Privacy/privacy.html).
 
