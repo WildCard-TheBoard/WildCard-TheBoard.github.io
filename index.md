@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## View, edit and play of Go game new
+## View, edit and play of Go game
 
 ![Overall](https://github.com/WildCard-TheBoard/Pan-TheBoard/assets/136297835/1e3c5448-9cfb-4578-b69f-58e51939c133)
 
@@ -23,6 +23,6 @@ GNU Go version 3.8
 ## Contact
 Bug, comment or suggestion? Welcome to send me an email to jkadreamer at gmail dot com or moldlab at hotmail dot com.
 
-[Link to Privacy page](./privacy.md).
+[Link to Privacy page](./privacy.html).
 
 [Link to Google Home](https://sites.google.com/view/goboardproject/home).
