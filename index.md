@@ -25,4 +25,3 @@ Bug, comment or suggestion? Welcome to send me an email to jkadreamer at gmail d
 
 [Link to Privacy page](./privacy.html).
 
-[Link to Google Home](https://sites.google.com/view/goboardproject/home).
