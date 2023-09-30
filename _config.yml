@@ -5,7 +5,7 @@ plugins:
 
 relative_links:
   enabled:     true
-  collections: false
+  collections: true
   
 title: [Pän::The Board]
 description: [Go board project]
