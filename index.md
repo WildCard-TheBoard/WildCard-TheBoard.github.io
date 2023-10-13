@@ -14,6 +14,8 @@ Play game with GNU Go.
 
 Note: Instruction manual or help is not provided because the function of the App is pretty simple. You may click the right button on a function key or on the region of screen, that will show up the option list when available.
 
+<a href="Sample_GBF_1_File.gbf">Download Sample file : Sample_GBF_1_File.gbf</a>
+
 ### Installation
 OS : Windows 10+  
 The App is downloadable from Microsoft App Store.   
