@@ -20,7 +20,8 @@ Note: Instruction manual or help is not provided because the function of the App
 OS : Windows 10+  
 The App is downloadable from Microsoft App Store.   
 The app is installed with external Go engine  as listed below:   
-GNU Go version 3.8
+1. GNU Go version 3.8
+2. Leela Zero version 0.17 
 
 ### Contact
 Bug, comment or suggestion? Welcome to send me an email to jkadreamer at gmail dot com or moldlab at hotmail dot com.
