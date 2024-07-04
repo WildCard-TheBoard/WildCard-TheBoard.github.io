@@ -1,11 +1,13 @@
 ---
+title: App Introduction
 layout: default
 ---
 
 ## View, edit and play of Go game
+<br>
+<img src="assets/img/WebFront.png" width="80%" alt="Front Web" />
 
-![Overall](https://github.com/WildCard-TheBoard/Pan-TheBoard/assets/136297835/1e3c5448-9cfb-4578-b69f-58e51939c133)
-
+           
 ### Description
 Provide various board sizes, and play game with Go engine.   
 Board size available from 9x9 to 19x19, 21x21 for experiment.   
