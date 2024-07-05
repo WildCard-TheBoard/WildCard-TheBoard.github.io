@@ -1,5 +1,5 @@
 ---
-title: App Introduction
+title: App Catalogue
 layout: default
 ---
 
