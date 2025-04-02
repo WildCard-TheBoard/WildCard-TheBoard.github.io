@@ -12,7 +12,7 @@ layout: default
 Provide various board sizes, and play game with Go engine.   
 Board size available from 9x9 to 19x19, 21x21 for experiment.   
 Support SGF file read and write.   
-Play game with GNU Go or Leela Zero LITE weight version.  
+Play game with GNU Go or Leela Zero.  
 Go puzzle(a.k.a Tsmego) creation and play 
 InfoCenter provides learning links of videos and Go files.
 
