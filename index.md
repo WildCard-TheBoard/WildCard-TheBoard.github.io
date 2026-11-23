@@ -9,11 +9,12 @@ layout: default
 
            
 ### Description
-Provide various board sizes, and play game with Go engine.   
-Board size available from 9x9 to 19x19, 21x21 for experiment.   
+View, edit and play game with AI Go engine.   
+Board size available from 9x9 to 19x19, 21x21 for experiment.  
+Analysis tools provided.
 Support SGF file read and write.   
-Play game with GNU Go or Leela Zero.  
-Go puzzle(a.k.a Tsmego) creation and play 
+Play game with GNU Go or KataGo.  
+Go puzzle(a.k.a Tsmego) creation and play.<br>
 InfoCenter provides learning links of videos and Go files.
 
 Note: User's manual is in InfoCenter. Install the app and go to 'InfoCenter' from the menu. Or, you may click the right button on a function key or on the region of screen, that will show up the option list when available.
@@ -29,12 +30,12 @@ Download Sample file : <br>
 ### Installation
 OS : Windows 10+  
 The App is downloadable from Microsoft App Store.   
-The app is installed with external Go engine  as listed below:   
+The app is installed with external Go engine as listed below:   
 1. GNU Go version 3.8
-2. Leela Zero version 0.17 
+2. KataGo 
 
 ### Contact
-Bug, comment or suggestion? Welcome to send me an email to jkadreamer at gmail dot com or moldlab at hotmail dot com.
+Bug, comment or suggestion? Welcome to send me an email to JKSweetDreamer at outlook dot com.
 
 [Link to Privacy page](Privacy/privacy.md).
 
