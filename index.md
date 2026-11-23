@@ -9,11 +9,11 @@ layout: default
 
            
 ### Description
-View, edit and play game with AI Go engine.   
-Board size available from 9x9 to 19x19, 21x21 for experiment.  
-Analysis tools provided.
-Support SGF file read and write.   
-Play game with GNU Go or KataGo.  
+View, edit and play game with AI Go engine. <br>  
+Board size available from 9x9 to 19x19, 21x21 for experiment. <br> 
+Analysis tools provided.<br>
+Support SGF file read and write.  <br> 
+Play game with GNU Go or KataGo. <br> 
 Go puzzle(a.k.a Tsmego) creation and play.<br>
 InfoCenter provides learning links of videos and Go files.
 
