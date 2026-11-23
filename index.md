@@ -31,7 +31,8 @@ Download Sample file : <br>
 OS : Windows 10+  
 The App is downloadable from Microsoft App Store.
 
-The app is running  with Go engine internally as listed below:<br>1. GNU Go version 3.8<br>
+The app is running  with Go engine internally as listed below: 
+1. GNU Go version 3.8
 2. KataGo v1.15.3 - Able to externally interface to the latest KataGo by user.
 
 ### Contact
