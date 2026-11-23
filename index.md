@@ -5,7 +5,7 @@ layout: default
 
 ## View, edit and play of Go game
 <br>
-<img src="assets/img/WebFront.png" alt="Web catalogue" />
+<img src="assets/img/Catalog 1 from Board 1.png" alt="Web catalogue" />
 
            
 ### Description
