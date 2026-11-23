@@ -9,15 +9,15 @@ layout: default
 
            
 ### Description
-View, edit and play game with AI Go engine. <br>  
-Board size available from 9x9 to 19x19, 21x21 for experiment. <br> 
+View, edit and play game with AI Go engine. <br>
+Board size available from 9x9 to 19x19, 21x21 for experiment. <br>
 Analysis tools provided.<br>
-Support SGF file read and write.  <br> 
-Play game with GNU Go or KataGo. <br> 
+Support SGF file read and write.  <br>
+Play game with GNU Go or KataGo. <br>
 Go puzzle(a.k.a Tsmego) creation and play.<br>
-InfoCenter provides learning links of videos and Go files.
+InfoCenter provides learning links of videos and Go files.<br>
 
-Note: User's manual is in InfoCenter. Install the app and go to 'InfoCenter' from the menu. Or, you may click the right button on a function key or on the region of screen, that will show up the option list when available.
+Note: User's manual is in InfoCenter. Install the app and go to 'InfoCenter' from the menu. 
 
 Download Sample file : <br>
 <br>
@@ -30,9 +30,9 @@ Download Sample file : <br>
 ### Installation
 OS : Windows 10+  
 The App is downloadable from Microsoft App Store.   
-The app is installed with external Go engine as listed below:   
+The app is running  with Go engine internally as listed below:   
 1. GNU Go version 3.8
-2. KataGo 
+2. KataGo v1.15.3 - Able to externally interface to the latest KataGo by user.
 
 ### Contact
 Bug, comment or suggestion? Welcome to send me an email to JKSweetDreamer at outlook dot com.
